@@ -1,0 +1,665 @@
+% ------------------------------------------------------------------------
+% SAMPLE BIBLIOGRAPHY FILE
+% ------------------------------------------------------------------------
+@misc{cve-2008-1368,
+  key =          {CVE-2008-1368},
+  title =        {Publication quality tables in \LaTeX*},
+  howpublished = {},
+  institution  = {NIST},
+  day =       17,
+  month =     {March},
+  year =         2008,
+  note =         {[online] \url{http://nvd.nist.gov/nvd.cfm?cvename=CVE-2008-1368}},
+  url = {http://nvd.nist.gov/nvd.cfm?cvename=CVE-2008-1368}
+}
+
+@MISC{prime-number-theorem,
+   author = "Charles Louis Xavier Joseph de la Vall{\'e}e Poussin",
+   note = "A strong form of the prime number theorem, 19th century" }
+
+% ------------------------------------------------------------------------
+
+@BOOK{texbook,
+   author = "Donald E. Knuth",
+   title= "The {{\TeX}book}",
+   publisher = "Addison-Wesley",
+   year = 1984 }
+
+@BOOK{latex,
+   author = "Leslie Lamport",
+   title = "{\LaTeX:} {A} Document Preparation System",
+   publisher = "Addison-Wesley",
+   year = 1986 }
+
+% ------------------------------------------------------------------------
+@article{Ancey1996,
+author = {Ancey, Christophe and Coussot, Philippe and Evesque, Pierre},
+journal = {Mechanics of Cohesive-frictional Materials},
+number = {4},
+pages = {385--403},
+title = {Examination of the possibility of a fluid-mechanics treatment of dense granular flows},
+url = {http://doi.wiley.com/10.1002/(SICI)1099-1484(199610)1:4<385::AID-CFM20>3.0.CO;2-0},
+volume = {1},
+year = {1996}
+}
+
+@BOOK{RR73,
+ author={H. Radjavi and P. Rosenthal},
+ title={Invariant {Subspaces}},
+ publisher={Springer-Verlag},
+ address={New York},
+ year={1973},
+}
+
+@BOOK{Aup91,
+ author={B. Aupetit},
+ title={A {Primer} on {Spectral} {Theory}},
+ publisher={Springer-Verlag},
+ address={New York},
+ year={1991},
+}
+
+@BOOK{Dou72,
+ author={R. G. Douglas},
+ title={Banach {Algebra} {Techniques} in {Operator} {Theory}},
+ publisher={Academic Press},
+ address={New York},
+ year={1972},
+}
+
+@BOOK{Hal82,
+ author={P. R. Halmos},
+ title={A {Hilbert} {Space} {Problem} {Book}},
+ edition={Second},
+ publisher={Springer-Verlag},
+ address={New York},
+ year={1982},
+}
+
+@BOOK{Rud73,
+ author={W. Rudin},
+ title={Functional {Analysis}},
+ publisher={McGraw-Hill},
+ address={New York},
+ year={1973},
+}
+
+@BOOK{Con90,
+ author={J. B. Conway},
+ title={A {Course} in {Functional} {Analysis}},
+ edition={Second},
+ publisher={Springer-Verlag},
+ address={New York},
+ year={1990},
+}
+
+@BOOK{Con78,
+ author={J. B. Conway},
+ title={Functions of {One} {Complex} {Variable}},
+ publisher={Springer-Verlag},
+ address={New York},
+ year={1978},
+}
+
+@BOOK{KR83,
+ author={R. V. Kadison and J. R. Ringrose},
+ title={Fundamentals of the {Theory} of {Operator} {Algebras},
+        {Part} {I}},
+ publisher={Academic Press},
+ address={New York},
+ year={1983},
+}
+
+@BOOK{KR86,
+ author={R. V. Kadison and J. R. Ringrose},
+ title={Fundamentals of the {Theory} of {Operator} {Algebras},
+        {Part} {II}},
+ publisher={Academic Press},
+ address={New York},
+ year={1986},
+}
+
+@INBOOK{SFPT,
+ author={N. Dunford and J. T. Schwartz},
+ title={Linear {Operators},
+        {Part} {I}: {General} {Theory}},
+ pages={456},
+ publisher={Interscience},
+ address={New York},
+ year={1957},
+}
+
+@BOOK{DS57,
+ author={N. Dunford and J. T. Schwartz},
+ title={Linear {Operators},
+        {Part} {I}: {General} {Theory}},
+ publisher={Interscience},
+ address={New York},
+ year={1957},
+}
+
+@BOOK{Gan59,
+ author={F. R. Gantmacher},
+ title={Applications of the {Theory} of {Matrices}},
+ publisher={Interscience},
+ address={New York},
+ year={1959},
+}
+
+@BOOK{Pau86,
+ author={Vern I. Paulsen},
+ title={Completely bounded maps and dilations},
+ series={Pitman Research Notes in Mathematics Series},
+ volume={146},
+ publisher={Longman Scientific \& Technical},
+ address={Harlow UK},
+ year={1986},
+}
+
+@BOOK{Dav88,
+ author={Kenneth R. Davidson},
+ title={Nest algebras},
+ series={Pitman Research Notes in Mathematics Series},
+ volume={191},
+ publisher={Longman Scientific \& Technical},
+ address={Harlow UK},
+ year={1988},
+}
+
+@BOOK{Spi65,
+ author={Michael Spivak},
+ title={Calculus on {Manifolds}},
+ publisher={The Benjamin/Cummings Publishing Company},
+ address={New York},
+ year={1965},
+}
+
+@BOOK{Dev68,
+ author={Allen Devinaz},
+ title={Advanced {Calculus}},
+ publisher={Holt, Rinehart and Winston},
+ address={New York},
+ year={1968},
+}
+
+@BOOK{Gam90,
+ editor={R. V. Gamkerlidze},
+ title={Analysis {I}{I}: {Convex} {Analysis} and
+        {Approximation} {Theory}},
+ series={Encyclopaedia of Mathematical Sciences},
+ volume={14},
+ publisher={Springer-Verlag},
+ address={New York},
+ year={1990},
+}
+
+@BOOK{Hen93,
+ author={Peter Henderson},
+ title={Object-oriented specification and design with {C}$++$},
+ publisher={McGraw-Hill},
+ address={London},
+ year={1993},
+}
+
+% ------------------------------------------------------------------------
+
+@ARTICLE{Rea85,
+ author={C. J. Read},
+ title={A solution to the invariant subspace problem on the space $l_1$},
+ journal={Bull. London Math. Soc.},
+ volume={17},
+ year={1985},
+ pages={305-317},
+}
+
+@ARTICLE{Enf87,
+ author={P. Enflo},
+ title={On the invariant subspaces problem for {Banach} spaces},
+ journal={Acta. Math.},
+ note={Seminare Maurey-Schwartz (1975-1976)},
+ volume={158},
+ year={1987},
+ pages={213-313},
+}
+
+@ARTICLE{Dau75,
+ author={J. Daughtry},
+ title={An invariant subspace theorem},
+ journal={Proc. Amer. Math. Soc.},
+ volume={49},
+ year={1975},
+ pages={267-268},
+}
+
+@ARTICLE{KPS75,
+ author={H. W. Kim and C. Pearcy and A. L. Shields},
+ title={Rank-One Commutators and Hyperinvariant Subspaces},
+ journal={Michigan Math. J.},
+ volume={22},
+ number={3},
+ year={1975},
+ pages={193-194},
+}
+
+% --------------------------------------------------------------------------
+
+@ARTICLE{Rad87,
+ author={H. Radjavi},
+ title={The {Engel}-{Jacobson} {Theorem} {Revisited}},
+ journal={J. Alg.},
+ volume={111},
+ year={1987},
+ pages={427-430},
+}
+
+@ARTICLE{MOR91,
+ author={B. Mathes and M. Omladi\v{c} and H. Radjavi},
+ title={Linear {Spaces} of {Nilpotent} {Operators}},
+ journal={Linear Algebra Appl.},
+ volume={149},
+ year={1991},
+ pages={215-225},
+}
+
+@ARTICLE{Lom73,
+ author={V. I. Lomonosov},
+ title={Invariant subspaces for operators commuting with compact
+        operators},
+ journal={Functional Anal. Appl.},
+ volume=7,
+ year=1973,
+ pages="213-214",
+}
+
+@ARTICLE{Lom91,
+ author={V. I. Lomonosov},
+ title={An extension of {Burnside}'s theorem to infinite
+        dimensional spaces},
+ journal={Israel J. Math},
+ volume=75,
+ year=1991,
+ pages="329-339",
+}
+
+@ARTICLE{Lom92,
+ author={V. I. Lomonosov},
+ title={On {Real} {Invariant} {Subspaces} of {Bounded} {Operators} with
+       {Compact} {Imaginary} {Part}},
+ journal={Proc. Amer. Math. Soc.},
+ volume=115,
+ number=3,
+ month=jul,
+ year=1992,
+ pages="775-777",
+}
+
+@ARTICLE{dB59,
+ author={L. de Branges},
+ title={The {Stone}-{Weierstrass} {Theorem}},
+ journal={Proc. Amer. Math. Soc.},
+ volume=10,
+ year=1959,
+ pages="822-824",
+}
+
+@ARTICLE{dB93,
+ author={L. de Branges},
+ title={A construction of invariant subspaces},
+ journal={Math. Nachr.},
+ volume=163,
+ year=1993,
+ pages="163-175",
+}
+
+@ARTICLE{AAB95,
+ author={Y. A. Abramovich and C. D. Aliprantis and O. Burkinshaw},
+ title={Another Characterization of the Invariant Subspace Problem},
+ journal={Operator Theory in Function Spaces and Banach Lattices.
+          {\em The A.C.\,Zaanen Anniversary Volume},
+          Operator Theory: Advances and Applications},
+ volume={75},
+ year={1995},
+ pages={15-31},
+ note={Birkh\"auser Verlag},
+}
+
+@ARTICLE{LM65,
+ author={Ju. I. Ljubi\v{c} and V. I. Macaev},
+ title={On Operators with a Separable Spectrum},
+ journal={Amer. Math. Soc. Transl. (2)},
+ volume={47},
+ year={1965},
+ pages={89-129},
+}
+
+% ------------------------------------------------------------------------
+
+@MASTERSTHESIS{Sim90,
+ author={A. Simoni\v{c}},
+ title={Grupe Operatorjev s Pozitivnim Spektrom},
+ school={Univerza v Ljubljani, FNT, Oddelek za Matematiko},
+ year={1990},
+}
+
+@UNPUBLISHED{Sim91,
+ author={A. Simoni\v{c}},
+ title={Notes on {Subharmonic} {Functions}},
+ note={Lecture Notes, Dalhousie University,
+       Department of Mathematics, Statistics, \& Computing Science},
+ year={1991},
+}
+
+@ARTICLE{Sim92,
+ author={A. Simoni\v{c}},
+ title={Matrix {Groups} with {Positive} {Spectra}},
+ journal={Linear Algebra Appl.},
+ volume={173},
+ year={1992},
+ pages={57-76},
+}
+
+@PHDTHESIS{Sim94,
+ author={A. Simoni\v{c}},
+ title={An {Extension} of {Lomonosov's} {Techniques} to {Non}-{Compact}
+       {Operators}},
+ school={Dalhousie University,
+         Department of Mathematics, Statistics, \& Computing Science},
+ year={1994},
+}
+
+@ARTICLE{Sim96a,
+ author={A. Simoni\v{c}},
+ title={A {Construction} of {Lomonosov} {Functions} and
+       {Applications} to the {Invariant} {Subspace} {Problem}},
+ journal={Pacific J. Math.},
+ volume={175},
+ pages={257-270},
+ year={1996},
+}
+
+@ARTICLE{Sim96b,
+ author={A. Simoni\v{c}},
+ title={An extension of {Lomonosov's} {Techniques} to non-compact
+       {Operators}},
+ journal={Trans. Amer. Math. Soc.},
+ volume={348},
+ pages={975-995},
+ year={1996},
+}
+
+% ------------------------------------------------------------------------
+
+% Tegar Imansyah
+
+@article{jia2014caffe,
+  Author = {Jia, Yangqing and Shelhamer, Evan and Donahue, Jeff and Karayev, Sergey and Long, Jonathan and Girshick, Ross and Guadarrama, Sergio and Darrell, Trevor},
+  Journal = {arXiv preprint arXiv:1408.5093},
+  Title = {Caffe: Convolutional Architecture for Fast Feature Embedding},
+  Year = {2014}
+}
+
+@inproceedings{andriluka2010vision,
+  title={Vision based victim detection from unmanned aerial vehicles},
+  author={Andriluka, Mykhaylo and Schnitzspan, Paul and Meyer, Johannes and Kohlbrecher, Stefan and Petersen, Karen and Von Stryk, Oskar and Roth, Stefan and Schiele, Bernt},
+  booktitle={Intelligent Robots and Systems (IROS), 2010 IEEE/RSJ International Conference on},
+  pages={1740--1747},
+  year={2010},
+  organization={IEEE}
+}
+
+@inproceedings{blondel2014human,
+  title={Human detection in uncluttered environments: From ground to UAV view},
+  author={Blondel, Paul and Potelle, Alex and P{\'e}gard, Claude and Lozano, Rogelio},
+  booktitle={Control Automation Robotics \& Vision (ICARCV), 2014 13th International Conference on},
+  pages={76--81},
+  year={2014},
+  organization={IEEE}
+}
+
+@article{cortes1995support,
+  title={Support-vector networks},
+  author={Cortes, Corinna and Vapnik, Vladimir},
+  journal={Machine learning},
+  volume={20},
+  number={3},
+  pages={273--297},
+  year={1995},
+  publisher={Springer}
+}
+
+@inproceedings{de2009human,
+  title={Human victim detection},
+  author={De Cubber, Geert and Marton, Gabor},
+  booktitle={Third International Workshop on Robotics for risky interventions and Environmental Surveillance-Maintenance, RISE},
+  year={2009}
+}
+
+@inproceedings{doherty2007uav,
+  title={A UAV search and rescue scenario with human body detection and geolocalization},
+  author={Doherty, Patrick and Rudol, Piotr},
+  booktitle={Australasian Joint Conference on Artificial Intelligence},
+  pages={1--13},
+  year={2007},
+  organization={Springer}
+}
+
+@inproceedings{freund1995desicion,
+  title={A desicion-theoretic generalization of on-line learning and an application to boosting},
+  author={Freund, Yoav and Schapire, Robert E},
+  booktitle={European conference on computational learning theory},
+  pages={23--37},
+  year={1995},
+  organization={Springer}
+}
+
+@incollection{fukushima1982neocognitron,
+  title={Neocognitron: A self-organizing neural network model for a mechanism of visual pattern recognition},
+  author={Fukushima, Kunihiko and Miyake, Sei},
+  booktitle={Competition and cooperation in neural nets},
+  pages={267--285},
+  year={1982},
+  publisher={Springer}
+}
+
+@article{hinton2010practical,
+  title={A practical guide to training restricted Boltzmann machines},
+  author={Hinton, Geoffrey},
+  journal={Momentum},
+  volume={9},
+  number={1},
+  pages={926},
+  year={2010}
+}
+
+@article{hinton2006fast,
+  title={A fast learning algorithm for deep belief nets},
+  author={Hinton, Geoffrey E and Osindero, Simon and Teh, Yee-Whye},
+  journal={Neural computation},
+  volume={18},
+  number={7},
+  pages={1527--1554},
+  year={2006},
+  publisher={MIT Press}
+}
+
+@article{hubel1962receptive,
+  title={Receptive fields, binocular interaction and functional architecture in the cat's visual cortex},
+  author={Hubel, David H and Wiesel, Torsten N},
+  journal={The Journal of physiology},
+  volume={160},
+  number={1},
+  pages={106--154},
+  year={1962},
+  publisher={Wiley Online Library}
+}
+
+@inproceedings{krizhevsky2012imagenet,
+  title={Imagenet classification with deep convolutional neural networks},
+  author={Krizhevsky, Alex and Sutskever, Ilya and Hinton, Geoffrey E},
+  booktitle={Advances in neural information processing systems},
+  pages={1097--1105},
+  year={2012}
+}
+
+@inproceedings{kuntze2014situation,
+  title={Situation responsive networking of mobile robots for disaster management},
+  author={Kuntze, Helge-Bjoern and Frey, Christian and Emter, Thomas and Petereit, Janko and Tchouchenkov, Igor and Mueller, Thomas and Tittel, Martin and Worst, Rainer and Pfeiffer, Kai and Walter, Moriz and others},
+  booktitle={ISR/Robotik 2014; 41st International Symposium on Robotics; Proceedings of},
+  pages={1--8},
+  year={2014},
+  organization={VDE}
+}
+
+@article{lecun1998gradient,
+  title={Gradient-based learning applied to document recognition},
+  author={LeCun, Yann and Bottou, L{\'e}on and Bengio, Yoshua and Haffner, Patrick},
+  journal={Proceedings of the IEEE},
+  volume={86},
+  number={11},
+  pages={2278--2324},
+  year={1998},
+  publisher={IEEE}
+}
+
+@article{lecun1989backpropagation,
+  title={Backpropagation applied to handwritten zip code recognition},
+  author={LeCun, Yann and Boser, Bernhard and Denker, John S and Henderson, Donnie and Howard, Richard E and Hubbard, Wayne and Jackel, Lawrence D},
+  journal={Neural computation},
+  volume={1},
+  number={4},
+  pages={541--551},
+  year={1989},
+  publisher={MIT Press}
+}
+
+@article{lecun2015deep,
+  title={Deep learning},
+  author={LeCun, Yann and Bengio, Yoshua and Hinton, Geoffrey},
+  journal={Nature},
+  volume={521},
+  number={7553},
+  pages={436--444},
+  year={2015},
+  publisher={Nature Research}
+}
+
+@book{murphy2012machine,
+  title={Machine learning: a probabilistic perspective},
+  author={Murphy, Kevin P},
+  year={2012},
+  publisher={MIT press}
+}
+
+@incollection{murphy2016disaster,
+  title={Disaster robotics},
+  author={Murphy, Robin R and Tadokoro, Satoshi and Kleiner, Alexander},
+  booktitle={Springer Handbook of Robotics},
+  pages={1577--1604},
+  year={2016},
+  publisher={Springer}
+}
+
+@inproceedings{zeiler2014visualizing,
+  title={Visualizing and understanding convolutional networks},
+  author={Zeiler, Matthew D and Fergus, Rob},
+  booktitle={European conference on computer vision},
+  pages={818--833},
+  year={2014},
+  organization={Springer}
+}
+
+@inproceedings{ren2015faster,
+  title={Faster  {R-CNN}: Towards real-time object detection with region proposal networks},
+  author={Shaoqing Ren and Kaiming He and Ross Girshick and Jian Sun},
+  booktitle={Advances in neural information processing systems ({NIPS})},
+  pages={91--99},
+  year={2015}
+}
+
+@book{creasey2015raspberry,
+  title={Raspberry Pi Essentials},
+  pages=42,
+  author={Creasey, Jack},
+  year={2015},
+  publisher={Packt Publishing Ltd}
+}
+
+@mastersthesis{Irawan2011isro,
+  author       = {Deny Satrya Irawan}, 
+  title        = {Pendeteksian Korban Bencana Gempa Pada Robot ISRo-G2 Berbasis Computer Vision Menggunakan Analisa Pendeteksian Dan Pergerakan Lengan Kamera Dengan Metode Ant Colony Optimization (ACO)},
+  school       = {Politeknik Elektronika Negeri Surabaya},
+  year         = 2011,
+  address      = {Surabaya},
+  month        = 12
+}
+
+@book{Goodfellow-et-al-2016,
+    title={Deep Learning},
+    author={Ian Goodfellow and Yoshua Bengio and Aaron Courville},
+    publisher={MIT Press},
+    note={\url{http://www.deeplearningbook.org}},
+    year={2016}
+}
+
+@article{banks2014mqtt,
+  title={MQTT Version 3.1. 1},
+  author={Banks, Andrew and Gupta, Rahul},
+  journal={OASIS standard},
+  year={2014}
+}
+
+@inproceedings{girshick2015fast,
+  title={Fast r-cnn},
+  author={Girshick, Ross},
+  booktitle={Proceedings of the IEEE International Conference on Computer Vision},
+  pages={1440--1448},
+  year={2015}
+}
+
+@inproceedings{he2014spatial,
+  title={Spatial pyramid pooling in deep convolutional networks for visual recognition},
+  author = {Kaiming, He and Xiangyu, Zhang and Shaoqing, Ren and Jian Sun},
+  booktitle={European Conference on Computer Vision},
+  pages={346--361},
+  year={2014},
+  organization={Springer}
+}
+
+@inproceedings{girshick2014rich,
+  title={Rich feature hierarchies for accurate object detection and semantic segmentation},
+  author={Girshick, Ross and Donahue, Jeff and Darrell, Trevor and Malik, Jitendra},
+  booktitle={Proceedings of the IEEE conference on computer vision and pattern recognition},
+  pages={580--587},
+  year={2014}
+}
+@article{chatfield2014return,
+  title={Return of the devil in the details: Delving deep into convolutional nets},
+  author={Chatfield, Ken and Simonyan, Karen and Vedaldi, Andrea and Zisserman, Andrew},
+  journal={arXiv preprint arXiv:1405.3531},
+  year={2014}
+}
+@article{simonyan2014very,
+  title={Very deep convolutional networks for large-scale image recognition},
+  author={Simonyan, Karen and Zisserman, Andrew},
+  journal={arXiv preprint arXiv:1409.1556},
+  year={2014}
+}
+@Article{Everingham10, 
+   author = {Everingham, M. and Van~Gool, L. and Williams, C. K. I. and Winn, J. and Zisserman, A.}, 
+   title = {The Pascal Visual Object Classes (VOC) Challenge}, 
+   journal = {International Journal of Computer Vision}, 
+   volume = {88}, 
+   year = {2010}, 
+   number = {2}, 
+   month = {jun}, 
+   pages = {303--338}
+} 
+@inproceedings{dalal2005histograms,
+  title={Histograms of oriented gradients for human detection},
+  author={Dalal, Navneet and Triggs, Bill},
+  booktitle={Computer Vision and Pattern Recognition, 2005. CVPR 2005. IEEE Computer Society Conference on},
+  volume={1},
+  pages={886--893},
+  year={2005},
+  organization={IEEE}
+}

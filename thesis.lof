@@ -1,0 +1,33 @@
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {1.1}{\ignorespaces Data Bencana Alam di Indonesia 2011-2014\relax }}{2}{figure.caption.9}
+\contentsline {figure}{\numberline {1.2}{\ignorespaces Perbedaan Citra (a) Pejalan Kaki (b) Korban Gempa Bumi\relax }}{3}{figure.caption.10}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Deteksi Korban pada tanah lapang oleh \cite {de2009human}\relax }}{10}{figure.caption.12}
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Hasil Pengujian Deteksi Korban oleh \cite {andriluka2010vision}\relax }}{11}{figure.caption.13}
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Penggabungan Kamera dan Termal oleh \cite {doherty2007uav}\relax }}{12}{figure.caption.14}
+\contentsline {figure}{\numberline {2.4}{\ignorespaces Hasil Pengujian Deteksi Korban oleh \cite {kuntze2014situation}\relax }}{12}{figure.caption.15}
+\contentsline {figure}{\numberline {2.5}{\ignorespaces Arsitektur dari LeNet-5 \cite {lecun1998gradient}\relax }}{14}{figure.caption.16}
+\contentsline {figure}{\numberline {2.6}{\ignorespaces Perceptron dengan Bias dan Input Sebanyak d\relax }}{15}{figure.caption.17}
+\contentsline {figure}{\numberline {2.7}{\ignorespaces Max Pooling dengan Filter 2x2\relax }}{16}{figure.caption.18}
+\contentsline {figure}{\numberline {2.8}{\ignorespaces Konsep R-CNN\relax }}{17}{figure.caption.19}
+\contentsline {figure}{\numberline {2.9}{\ignorespaces Konsep SPPnet\relax }}{18}{figure.caption.20}
+\contentsline {figure}{\numberline {2.10}{\ignorespaces Konsep Fast R-CNN\relax }}{19}{figure.caption.21}
+\contentsline {figure}{\numberline {2.11}{\ignorespaces Gambaran Sederhana Dari Network (a) Fast R-CNN (b) Faster R-CNN\relax }}{20}{figure.caption.22}
+\contentsline {figure}{\numberline {2.12}{\ignorespaces Share Feature yang Dilakukan RPN\relax }}{21}{figure.caption.23}
+\contentsline {figure}{\numberline {2.13}{\ignorespaces Faster R-CNN Alternating Optimization\relax }}{21}{figure.caption.24}
+\contentsline {figure}{\numberline {2.14}{\ignorespaces (a) Cara Membaca Net (b) Visualisasi dari Net dan Penulisannya pada Protobuf\relax }}{23}{figure.caption.25}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Perancangan Sistem Kerja\relax }}{25}{figure.caption.26}
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Beberapa Bagian Penting Raspberry Pi 3 yang Perlu Diperhatikan\relax }}{28}{figure.caption.28}
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Konfigurasi Raspberry Pi yang akan Digunakan\relax }}{29}{figure.caption.29}
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Perancangan Mekanisme Pengambilan Data\relax }}{29}{figure.caption.30}
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Protokol MQTT yang Digunakan\relax }}{30}{figure.caption.31}
+\contentsline {figure}{\numberline {3.6}{\ignorespaces Gambar000001.jpg Pada Dataset VOC2007 dan Anotasinya \relax }}{31}{figure.caption.32}
+\contentsline {figure}{\numberline {3.7}{\ignorespaces Struktur CNN Deteksi Korban Bencana Alam\relax }}{32}{figure.caption.33}
+\contentsline {figure}{\numberline {3.8}{\ignorespaces Faster R-CNN untuk Korban Bencana Alam\relax }}{32}{figure.caption.34}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Protokol MQTT Dijalankan Pada Server (a) dan Raspberry Pi (b)\relax }}{35}{figure.caption.35}
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Format Deteksi\relax }}{37}{figure.caption.38}
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Korban Bencana IDV\relax }}{38}{figure.caption.39}
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Hasil Pengujian Deteksi Berbagai Sikap dan Ketinggian \relax }}{39}{figure.caption.40}
+\addvspace {10\p@ }

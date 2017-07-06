@@ -1,0 +1,58 @@
+\documentclass[a5paper,10pt,times,twoside,custommargin,PageStyleII,numbered,print,index]{Classes/PhDThesisPSnPDF}
+
+\input{Preamble/preamble}
+\input{thesis-info}
+
+
+\ifdefineAbstract
+ \pagestyle{empty}
+ \includeonly{Declaration/declaration, Abstract/abstract}
+\fi
+
+
+\begin{document}
+
+\frontmatter
+
+\include{Acknowledgement/pengesahan}
+\include{Abstract/abstract}
+\include{Abstract_en/abstract}
+\include{Declaration/deklarasi}
+\include{Dedication/kata_pengantar}
+
+\tableofcontents
+\listoffigures
+\listoftables
+
+% ---------------------------
+
+\mainmatter
+
+\include{Chapter1/chapter1}
+\include{Chapter2/chapter2}
+\include{Chapter3/chapter3}
+\include{Chapter4/chapter4}
+\include{Chapter5/chapter5}
+
+% ---------------------------
+
+\begin{spacing}{0.9}
+
+	\bibliographystyle{apalike}
+	\cleardoublepage
+	\bibliography{References/references}
+
+\end{spacing}
+
+% ---------------------------
+
+\begin{appendices} % Uncomment jika ingin ada appendix.
+
+	%\include{Appendix1/appendix1}
+	%\include{Appendix2/appendix2}
+
+\end{appendices}
+
+\printthesisindex % If index is present
+
+\end{document}

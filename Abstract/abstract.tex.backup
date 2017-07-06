@@ -1,0 +1,14 @@
+% ************************** Thesis Abstract *****************************
+% Use `abstract' as an option in the document class to print only the titlepage and the abstract.
+\begin{abstract}
+{
+\small
+Tujuan utama Tim SAR adalah menemukan korban di lokasi pasca bencana alam secepat mungkin. Penelitian tentang robot yang membantu Tim SAR menemukan korban berkembang pesat. Sayangnya, penelitian sebelumnya hanya menguji coba proses deteksi korban pada latar belakang yang sederhana seperti di dalam ruangan atau di tanah lapang. Padahal deteksi korban bencana alam memiliki tingkat kesulitan yang kompleks, dimana citra kondisi manusia menyerupai citra lingkungan pasca bencana. Pada proyek akhir ini akan dilakukan penelitian tentang pendeteksian korban bencana alam dengan data citra yang diambil dari udara. Untuk meningkatkan akurasi deteksi, Deep Learning akan diterapkan bersama dengan framework Caffe pada pengolahan citra menggunakan arsitektur Convolutional Neural Networks (CNN). Deep Learning mampu melakukan feature extraction pada proses learning sehingga peneliti tidak perlu mendefinisikan feature yang akan digunakan. Penelitian ini juga akan membuat dataset khusus korban bencana alam yang merepresentasikan keadaan yang sebenarnya. Pada keluaran diharapkan mampu menemukan korban-korban dan menentukan area paling banyak korban. Dengan adanya pencarian udara yang secara otomatis menemukan lokasi korban, maka Tim SAR dapat langsung menuju lokasi tanpa resiko keselamatan tim dan inefisiensi waktu.
+
+Perkembangan proyek akhir ini telah menguji kemampuan pengambilan dan pengiriman gambar serta melakukan \textit{learning} dan \textit{testing} pada berbagai gambar. Pengujian dilakukan dengan empat resolusi gambar dan dilihat ukuran data, waktu dan akurasi. Pengambilan data gambar dengan resolusi 800x600 dinilai paling optimal karena memiliki ukuran data yang relatif kecil, waktu deteksi yang singkat tetapi dengan akurasi deteksi yang relatif tinggi. Selanjutnya akan dibuat dataset untuk dilakukan \textit{re-training}, melakukan pengujian dengan pose korban yang berbeda dan pengujian pada satu peta utuh yang dibuat saat penjelajahan udara.
+
+Kata Kunci: \textbf{Deteksi Korban Bencana Alam, Deep Learning, Caffe,
+Convolutional Neural Networks (CNN), Dataset Korban Bencana Alam,
+Pengambilan Gambar Udara.}
+}
+\end{abstract}

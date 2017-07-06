@@ -1,0 +1,177 @@
+\begin{thebibliography}{}
+
+\bibitem[Andriluka et~al., 2010]{andriluka2010vision}
+Andriluka, M., Schnitzspan, P., Meyer, J., Kohlbrecher, S., Petersen, K.,
+  Von~Stryk, O., Roth, S., and Schiele, B. (2010).
+\newblock Vision based victim detection from unmanned aerial vehicles.
+\newblock In {\em Intelligent Robots and Systems (IROS), 2010 IEEE/RSJ
+  International Conference on}, pages 1740--1747. IEEE.
+
+\bibitem[Banks and Gupta, 2014]{banks2014mqtt}
+Banks, A. and Gupta, R. (2014).
+\newblock Mqtt version 3.1. 1.
+\newblock {\em OASIS standard}.
+
+\bibitem[Blondel et~al., 2014]{blondel2014human}
+Blondel, P., Potelle, A., P{\'e}gard, C., and Lozano, R. (2014).
+\newblock Human detection in uncluttered environments: From ground to uav view.
+\newblock In {\em Control Automation Robotics \& Vision (ICARCV), 2014 13th
+  International Conference on}, pages 76--81. IEEE.
+
+\bibitem[Chatfield et~al., 2014]{chatfield2014return}
+Chatfield, K., Simonyan, K., Vedaldi, A., and Zisserman, A. (2014).
+\newblock Return of the devil in the details: Delving deep into convolutional
+  nets.
+\newblock {\em arXiv preprint arXiv:1405.3531}.
+
+\bibitem[Cortes and Vapnik, 1995]{cortes1995support}
+Cortes, C. and Vapnik, V. (1995).
+\newblock Support-vector networks.
+\newblock {\em Machine learning}, 20(3):273--297.
+
+\bibitem[Creasey, 2015]{creasey2015raspberry}
+Creasey, J. (2015).
+\newblock {\em Raspberry Pi Essentials}.
+\newblock Packt Publishing Ltd.
+
+\bibitem[Dalal and Triggs, 2005]{dalal2005histograms}
+Dalal, N. and Triggs, B. (2005).
+\newblock Histograms of oriented gradients for human detection.
+\newblock In {\em Computer Vision and Pattern Recognition, 2005. CVPR 2005.
+  IEEE Computer Society Conference on}, volume~1, pages 886--893. IEEE.
+
+\bibitem[De~Cubber and Marton, 2009]{de2009human}
+De~Cubber, G. and Marton, G. (2009).
+\newblock Human victim detection.
+\newblock In {\em Third International Workshop on Robotics for risky
+  interventions and Environmental Surveillance-Maintenance, RISE}.
+
+\bibitem[Doherty and Rudol, 2007]{doherty2007uav}
+Doherty, P. and Rudol, P. (2007).
+\newblock A uav search and rescue scenario with human body detection and
+  geolocalization.
+\newblock In {\em Australasian Joint Conference on Artificial Intelligence},
+  pages 1--13. Springer.
+
+\bibitem[Everingham et~al., 2010]{Everingham10}
+Everingham, M., Van~Gool, L., Williams, C. K.~I., Winn, J., and Zisserman, A.
+  (2010).
+\newblock The pascal visual object classes (voc) challenge.
+\newblock {\em International Journal of Computer Vision}, 88(2):303--338.
+
+\bibitem[Freund and Schapire, 1995]{freund1995desicion}
+Freund, Y. and Schapire, R.~E. (1995).
+\newblock A desicion-theoretic generalization of on-line learning and an
+  application to boosting.
+\newblock In {\em European conference on computational learning theory}, pages
+  23--37. Springer.
+
+\bibitem[Fukushima and Miyake, 1982]{fukushima1982neocognitron}
+Fukushima, K. and Miyake, S. (1982).
+\newblock Neocognitron: A self-organizing neural network model for a mechanism
+  of visual pattern recognition.
+\newblock In {\em Competition and cooperation in neural nets}, pages 267--285.
+  Springer.
+
+\bibitem[Girshick, 2015a]{girshick2015fast}
+Girshick, R. (2015a).
+\newblock Fast r-cnn.
+\newblock In {\em Proceedings of the IEEE International Conference on Computer
+  Vision}, pages 1440--1448.
+
+\bibitem[Girshick, 2015b]{girshick2015tutorial}
+Girshick, R. (2015b).
+\newblock Training {R-CNNs} of various velocities.
+
+\bibitem[Girshick et~al., 2014]{girshick2014rich}
+Girshick, R., Donahue, J., Darrell, T., and Malik, J. (2014).
+\newblock Rich feature hierarchies for accurate object detection and semantic
+  segmentation.
+\newblock In {\em Proceedings of the IEEE conference on computer vision and
+  pattern recognition}, pages 580--587.
+
+\bibitem[Hinton, 2010]{hinton2010practical}
+Hinton, G. (2010).
+\newblock A practical guide to training restricted boltzmann machines.
+\newblock {\em Momentum}, 9(1):926.
+
+\bibitem[Hinton et~al., 2006]{hinton2006fast}
+Hinton, G.~E., Osindero, S., and Teh, Y.-W. (2006).
+\newblock A fast learning algorithm for deep belief nets.
+\newblock {\em Neural computation}, 18(7):1527--1554.
+
+\bibitem[Hubel and Wiesel, 1962]{hubel1962receptive}
+Hubel, D.~H. and Wiesel, T.~N. (1962).
+\newblock Receptive fields, binocular interaction and functional architecture
+  in the cat's visual cortex.
+\newblock {\em The Journal of physiology}, 160(1):106--154.
+
+\bibitem[Irawan, 2011]{Irawan2011isro}
+Irawan, D.~S. (2011).
+\newblock Pendeteksian korban bencana gempa pada robot isro-g2 berbasis
+  computer vision menggunakan analisa pendeteksian dan pergerakan lengan kamera
+  dengan metode ant colony optimization (aco).
+\newblock Master's thesis, Politeknik Elektronika Negeri Surabaya, Surabaya.
+
+\bibitem[Jia et~al., 2014]{jia2014caffe}
+Jia, Y., Shelhamer, E., Donahue, J., Karayev, S., Long, J., Girshick, R.,
+  Guadarrama, S., and Darrell, T. (2014).
+\newblock Caffe: Convolutional architecture for fast feature embedding.
+\newblock {\em arXiv preprint arXiv:1408.5093}.
+
+\bibitem[Kaiming et~al., 2014]{he2014spatial}
+Kaiming, H., Xiangyu, Z., Shaoqing, R., and Sun, J. (2014).
+\newblock Spatial pyramid pooling in deep convolutional networks for visual
+  recognition.
+\newblock In {\em European Conference on Computer Vision}, pages 346--361.
+  Springer.
+
+\bibitem[Krizhevsky et~al., 2012]{krizhevsky2012imagenet}
+Krizhevsky, A., Sutskever, I., and Hinton, G.~E. (2012).
+\newblock Imagenet classification with deep convolutional neural networks.
+\newblock In {\em Advances in neural information processing systems}, pages
+  1097--1105.
+
+\bibitem[Kuntze et~al., 2014]{kuntze2014situation}
+Kuntze, H.-B., Frey, C., Emter, T., Petereit, J., Tchouchenkov, I., Mueller,
+  T., Tittel, M., Worst, R., Pfeiffer, K., Walter, M., et~al. (2014).
+\newblock Situation responsive networking of mobile robots for disaster
+  management.
+\newblock In {\em ISR/Robotik 2014; 41st International Symposium on Robotics;
+  Proceedings of}, pages 1--8. VDE.
+
+\bibitem[LeCun et~al., 1989]{lecun1989backpropagation}
+LeCun, Y., Boser, B., Denker, J.~S., Henderson, D., Howard, R.~E., Hubbard, W.,
+  and Jackel, L.~D. (1989).
+\newblock Backpropagation applied to handwritten zip code recognition.
+\newblock {\em Neural computation}, 1(4):541--551.
+
+\bibitem[LeCun et~al., 1998]{lecun1998gradient}
+LeCun, Y., Bottou, L., Bengio, Y., and Haffner, P. (1998).
+\newblock Gradient-based learning applied to document recognition.
+\newblock {\em Proceedings of the IEEE}, 86(11):2278--2324.
+
+\bibitem[Murphy et~al., 2016]{murphy2016disaster}
+Murphy, R.~R., Tadokoro, S., and Kleiner, A. (2016).
+\newblock Disaster robotics.
+\newblock In {\em Springer Handbook of Robotics}, pages 1577--1604. Springer.
+
+\bibitem[Ren et~al., 2015]{ren2015faster}
+Ren, S., He, K., Girshick, R., and Sun, J. (2015).
+\newblock Faster {R-CNN}: Towards real-time object detection with region
+  proposal networks.
+\newblock In {\em Advances in neural information processing systems ({NIPS})},
+  pages 91--99.
+
+\bibitem[Simonyan and Zisserman, 2014]{simonyan2014very}
+Simonyan, K. and Zisserman, A. (2014).
+\newblock Very deep convolutional networks for large-scale image recognition.
+\newblock {\em arXiv preprint arXiv:1409.1556}.
+
+\bibitem[Zeiler and Fergus, 2014]{zeiler2014visualizing}
+Zeiler, M.~D. and Fergus, R. (2014).
+\newblock Visualizing and understanding convolutional networks.
+\newblock In {\em European conference on computer vision}, pages 818--833.
+  Springer.
+
+\end{thebibliography}

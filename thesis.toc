@@ -1,0 +1,44 @@
+\thispagestyle {empty}
+\contentsline {chapter}{Daftar Gambar}{xiii}{chapter*.7}
+\contentsline {chapter}{Daftar Tabel}{xv}{chapter*.8}
+\contentsline {chapter}{\numberline {1}PENDAHULUAN}{1}{chapter.1}
+\contentsline {section}{\numberline {1.1}Latar Belakang}{1}{section.1.1}
+\contentsline {section}{\numberline {1.2}Tujuan Proyek Akhir}{3}{section.1.2}
+\contentsline {section}{\numberline {1.3}Rumusan Masalah}{3}{section.1.3}
+\contentsline {section}{\numberline {1.4}Batasan Masalah}{3}{section.1.4}
+\contentsline {section}{\numberline {1.5}Metodologi Proyek Akhir}{4}{section.1.5}
+\contentsline {section}{\numberline {1.6}Sistematika Penulisan}{5}{section.1.6}
+\contentsline {chapter}{\numberline {2}STUDI PENDAHULUAN}{7}{chapter.2}
+\contentsline {section}{\numberline {2.1}Macam Macam Operasi Pasca Bencana}{7}{section.2.1}
+\contentsline {section}{\numberline {2.2}Robot untuk Bencana}{8}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}Pengertian Robot untuk Bencana}{8}{subsection.2.2.1}
+\contentsline {subsection}{\numberline {2.2.2}Penelitian Robot untuk Bencana Sebelumnya}{10}{subsection.2.2.2}
+\contentsline {section}{\numberline {2.3}Deep Learning}{12}{section.2.3}
+\contentsline {subsection}{\numberline {2.3.1}Pengertian dan Deep Learning}{12}{subsection.2.3.1}
+\contentsline {subsection}{\numberline {2.3.2}Convolutional Neural Networks}{14}{subsection.2.3.2}
+\contentsline {subsection}{\numberline {2.3.3}Paper Object Detection}{17}{subsection.2.3.3}
+\contentsline {subsection}{\numberline {2.3.4}Deep Learning Library}{20}{subsection.2.3.4}
+\contentsline {chapter}{\numberline {3}PERANCANGAN SISTEM}{25}{chapter.3}
+\contentsline {section}{\numberline {3.1} Perancangan Sistem Kerja}{25}{section.3.1}
+\contentsline {subsection}{\numberline {3.1.1} Skenario Yang Digunakan}{25}{subsection.3.1.1}
+\contentsline {subsection}{\numberline {3.1.2} Gambar Drone Bawa Kotak Sensor}{25}{subsection.3.1.2}
+\contentsline {section}{\numberline {3.2} Konfigurasi Perangkat Keras Dan Lunak}{26}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1} Spesifikasi Pengolahan Data}{26}{subsection.3.2.1}
+\contentsline {subsection}{\numberline {3.2.2} Instalasi software (cuda, cudnn)}{27}{subsection.3.2.2}
+\contentsline {subsection}{\numberline {3.2.3} Perangkat pengambilan data (raspberry skematik, berapa megapiksel dengan kecepatan terbang berapa)}{27}{subsection.3.2.3}
+\contentsline {subsection}{\numberline {3.2.4} Komunikasi pengiriman data (gui, mqtt, mavlink)}{29}{subsection.3.2.4}
+\contentsline {section}{\numberline {3.3} Proses learning CNN }{31}{section.3.3}
+\contentsline {subsection}{\numberline {3.3.1} Dataset}{31}{subsection.3.3.1}
+\contentsline {subsection}{\numberline {3.3.2} Struktur Layer}{32}{subsection.3.3.2}
+\contentsline {subsection}{\numberline {3.3.3} Penjelasan masing masing layer (yang di ipynb)}{33}{subsection.3.3.3}
+\contentsline {subsection}{\numberline {3.3.4} Parameter (Learning rate dkk yang ada di option compile)}{33}{subsection.3.3.4}
+\contentsline {subsection}{\numberline {3.3.5} Visualisasi Layer (Cara melihat visualisasi)}{33}{subsection.3.3.5}
+\contentsline {chapter}{\numberline {4}Pengujian dan Analisa Sistem}{35}{chapter.4}
+\contentsline {section}{\numberline {4.1}Pengujian Pengambilan dan Pengiriman Gambar}{35}{section.4.1}
+\contentsline {section}{\numberline {4.2}Pengujian Learning dan Testing Berbagai Net}{36}{section.4.2}
+\contentsline {section}{\numberline {4.3}Pengujian Deteksi Manusia Menggunakan IDV-50}{37}{section.4.3}
+\contentsline {section}{\numberline {4.4}Pengujian Deteksi Pada Varian Ketinggian}{38}{section.4.4}
+\contentsline {chapter}{\numberline {5}PENUTUP}{41}{chapter.5}
+\contentsline {section}{\numberline {5.1}Kesimpulan}{41}{section.5.1}
+\contentsline {section}{\numberline {5.2}Saran}{41}{section.5.2}
+\contentsline {chapter}{Daftar Pustaka}{43}{chapter*.42}
